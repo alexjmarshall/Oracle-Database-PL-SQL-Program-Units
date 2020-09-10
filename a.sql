@@ -1,5 +1,3 @@
---Student: Alex Marshall
---Lab1A
 --1. Create tables and constraints
 
 create table Account (
